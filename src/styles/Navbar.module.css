@@ -1,0 +1,8 @@
+.navMenu{
+    display: flex;
+    padding:1em; 
+}
+
+.navMenu li{
+    margin-left:1em; 
+}
